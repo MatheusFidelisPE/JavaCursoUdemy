@@ -17,4 +17,7 @@ public class AreaCirc {
 	void teste() {
 		System.out.println("teste");
 	}
+	void teste2() {
+		System.out.println("TESTE2");
+	}
 }
