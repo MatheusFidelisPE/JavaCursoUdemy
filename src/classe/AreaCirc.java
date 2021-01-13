@@ -14,4 +14,7 @@ public class AreaCirc {
 	static double areacirc(double raio) {
 		return raio * raio * PI;
 	}
+	void teste() {
+		System.out.println("teste");
+	}
 }
